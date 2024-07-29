@@ -1,3 +1,0 @@
-interface WeatherStation {
-    void display();
-}

@@ -1,3 +1,0 @@
-interface WeatherService {
-    void fetchWeatherData();
-}
